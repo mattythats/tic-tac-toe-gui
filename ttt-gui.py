@@ -1,5 +1,5 @@
 #Python 3.7.3
-#Dependencies: numpy v1.16, pyforms v4
+#Dependencies: numpy v1.16, tkinter v5
 
 import sys
 import numpy as np
